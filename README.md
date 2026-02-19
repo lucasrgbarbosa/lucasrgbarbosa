@@ -14,9 +14,6 @@
 ## 📱 Contato
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/luciano-oliveira-93389a228/](https://www.linkedin.com/in/lucasribeirobarbosa/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="lucasrgb031@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
