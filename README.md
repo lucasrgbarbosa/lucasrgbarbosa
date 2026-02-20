@@ -1,4 +1,4 @@
-## Hello, I'm Lucas Ribeiro 👋
+# Hello, I'm Lucas Ribeiro 👋
 
 🎓Formado em Analise e Desenvolvimento de Sistemas
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📱 Contato
+## 🎤 Contato
 
 <p align="left">
   <a href="lucasrgb031@gmail.com" target="_blank">
@@ -21,7 +21,7 @@
 
 ---
 
-## Tecnologias 
+## 🛠 Tecnologias 
 
 <p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
