@@ -4,9 +4,7 @@
 
 💻 Analista de sistemas com foco em criar soluções completas.
 
-🐝 Integrante do programa **Programadores do Amanhã**. 
-
-🌱 Atualmente estou aprendendo mais sobre React e TypeScript.
+- Integrante do programa **Programadores do Amanhã**. 
 
 
 ---
